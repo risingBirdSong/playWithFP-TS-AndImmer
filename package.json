@@ -1,0 +1,26 @@
+{
+  "name": "playwithfp-ts-andimmer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/risingBirdSong/playWithFP-TS-AndImmer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/risingBirdSong/playWithFP-TS-AndImmer/issues"
+  },
+  "homepage": "https://github.com/risingBirdSong/playWithFP-TS-AndImmer#readme",
+  "dependencies": {
+    "@types/ramda": "^0.27.17",
+    "fp-ts": "^2.8.2",
+    "immer": "^7.0.9",
+    "ramda": "^0.27.1",
+    "true-myth": "^4.0.0"
+  }
+}
